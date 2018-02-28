@@ -15,4 +15,6 @@ npm run dev
 npm run build
 ```
 
+![Alt text](./screenshot.png?raw=true "Screenshot")
+
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
